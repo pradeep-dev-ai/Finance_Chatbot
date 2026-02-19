@@ -5,7 +5,7 @@ from prompts.financial_prompts import build_prompt
 
 st.set_page_config(page_title="Financial Advisor Chatbot")
 
-st.title("💰 AI Financial Advisor")
+st.title("Financial Advisor Chatbot")
 
 init_memory()
 
